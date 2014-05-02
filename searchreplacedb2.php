@@ -1,6 +1,6 @@
 <?php
 /**
- *
+ * TEST
  * Safe Search and Replace on Database with Serialized Data v2.2.0
  *
  * This script is to solve the problem of doing database search and replace when
